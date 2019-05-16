@@ -1,0 +1,15 @@
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\obj\x86\Debug\Blogs-Console.csprojAssemblyReference.cache
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\obj\x86\Debug\Blogs-Console.csproj.CoreCompileInputs.cache
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\NLog.config
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\Blogs-Console.exe.config
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\Blogs-Console.exe
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\Blogs-Console.pdb
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\EntityFramework.dll
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\EntityFramework.SqlServer.dll
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\NLog.dll
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\NLog.xml
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\EntityFramework.xml
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\bin\Debug\EntityFramework.SqlServer.xml
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\obj\x86\Debug\Blogs-Console.csproj.CopyComplete
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\obj\x86\Debug\Blogs-Console.exe
+E:\WCTC\Spring 2019\.Net Database Programming\Final Project\Blogs-Console-EF-Blogs-Part-2\obj\x86\Debug\Blogs-Console.pdb
